@@ -1,0 +1,13 @@
+current directory: /home/ndakala/Documents/rubyprojects/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221102-13033-ja1e3o.rb extconf.rb
+creating Makefile
+
+current directory: /home/ndakala/Documents/rubyprojects/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make DESTDIR\= clean
+
+current directory: /home/ndakala/Documents/rubyprojects/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/ndakala/Documents/rubyprojects/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make DESTDIR\= install
